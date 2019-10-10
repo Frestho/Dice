@@ -18,7 +18,7 @@ void draw()
 		}
 	}
 	textSize(20);
-	text("Total value: " + Integer.toString(total), 150, 540);
+	text("Total value: " + total, 150, 540);
 }
 void mousePressed()
 {
