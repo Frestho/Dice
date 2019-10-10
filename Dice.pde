@@ -18,6 +18,7 @@ void draw()
 		}
 	}
 	textSize(20);
+	fill(255);
 	text("Total value: " + total, 150, 540);
 }
 void mousePressed()
